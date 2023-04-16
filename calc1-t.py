@@ -3,6 +3,7 @@ import tkinter as tk
 # 导入math模块
 import math
 
+
 # 创建一个窗口对象，命名为window
 window = tk.Tk()
 # 设置窗口的标题为"简单计算器"
